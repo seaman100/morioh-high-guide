@@ -2,12 +2,12 @@
 
 A hub for codes and character references in the Morioh High universe.
 
-## Links
+The tool itself is at [Morioh High codes](https://moriohhighguide.com/codes/).
 
-- [Morioh High Guide — Wiki/Stands](https://moriohhighguide.com/wiki/stands/)
+There is a longer walkthrough at [should you keep your stand or reroll](https://moriohhighguide.com/guides/stands-and-rerolls/).
 
-- [Main site](https://moriohhighguide.com/)
+Project home: [Morioh High Guide](https://moriohhighguide.com/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
